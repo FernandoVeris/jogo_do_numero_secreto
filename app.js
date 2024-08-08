@@ -72,7 +72,7 @@ function verificarChute(){
 }
 
 let lista = [];
-let base = 10;
+let base = 100;
 let numeroSecreto = geraNumero(base);
 //let numeroSecreto = 5;
 let numTentativas = 1;
